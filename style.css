@@ -83,7 +83,7 @@ div.header {
     gap: 12px;
 }
 
-.header img {
+div.header img {
     max-width: 100%;
     height: auto;
     display: block;
