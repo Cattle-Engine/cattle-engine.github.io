@@ -92,3 +92,9 @@ div.header img {
 div.header h1 {
     margin: 0;
 }
+
+.error-title {
+    margin-top: 30px;
+    text-align: left;
+    padding-left: 70px;
+}
